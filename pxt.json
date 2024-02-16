@@ -1,0 +1,19 @@
+{
+  "name": "ManaBot",
+  "version": "1.0.0",
+  "description": "This library is designed to ManaBot.",
+  "license": "MIT",
+  "dependencies": {
+    "core": "*"
+  },
+  "files": [
+    "README.md",
+    "manabot.ts",
+    "_locales/ja/ManaBot-strings.json",
+    "_locales/ja/ManaBot-jsdoc-strings.json"
+  ],
+  "testFiles": ["tests.ts"],
+  "public": true,
+  "supportedTargets": ["microbit"],
+  "preferredEditor": "tsprj"
+}

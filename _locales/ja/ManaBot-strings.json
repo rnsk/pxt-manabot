@@ -1,0 +1,9 @@
+{
+  "{id:group}Motor": "モーター",
+  "ManaBot.initWheel|block": "左タイヤを %left| にする、 右タイヤを %right にする",
+  "ManaBot.moveForward|block": "前進 %time 秒",
+  "ManaBot.moveBackward|block": "後退 %time 秒",
+  "ManaBot.turnLeft|block": "左回り %time 秒",
+  "ManaBot.turnRight|block": "右回り %time 秒",
+  "ManaBot.stopMoving|block": "動きを止める"
+}
